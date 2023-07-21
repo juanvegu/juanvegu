@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Juan</h2>
-<h3 align="center">A passionate mobile developer from Chile</h3>
+<h3 align="center">A mobile developer from Chile</h3>
 
 - 🌱 I’m currently learning **GraphQL, Unity** and **Unreal Engine.**
 
