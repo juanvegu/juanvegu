@@ -1,18 +1,19 @@
 <h2 align="center">Hi 👋, I'm Juan</h2>
 <h3 align="center">A mobile developer from Chile</h3>
 
-- 🌱 I’m currently learning **GraphQL, Unity** and **Unreal Engine.**
+- 🌱 I’m currently learning **GraphQL, Python, Unreal Engine** and **Unity**.
 
-- 💬 Ask me about **Swift** and **Flutter**
+- 💬 Ask me about **Swift** and **Flutter**.
 
 <h4 align="left">Languages and Tools:</h4>
 <p align="left">
-  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="30" height="30"/></a> &nbsp;
+  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="swift" width="30" height="30"/></a> &nbsp;
   <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="30" height="30"/> &nbsp;
   <a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="30" height="30"/></a> &nbsp;
   <a href="https://dart.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="30" height="30"/></a> &nbsp;
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="30" height="30"/></a> &nbsp;
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="30" height="30"/></a> &nbsp;
   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="30" height="30"/></a> &nbsp;
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="30" height="30"/></a> &nbsp;
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="30" height="30"/></a> &nbsp;
   <a href="https://graphql.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="30" height="30"/></a> &nbsp;
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/></a> &nbsp;
