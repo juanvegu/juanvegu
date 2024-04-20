@@ -24,5 +24,5 @@
 <p align="left">
   <a href="https://linkedin.com/in/juan-vergara-gutierrez-5890b29a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan-vergara-gutierrez-5890b29a" height="24" width="24" /></a> &nbsp;
   <a href="https://stackoverflow.com/users/6132300" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="6132300" height="24" width="24" /></a> &nbsp;
-  <a href="https://www.hackerrank.com/juanvegu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="juanvegu" height="24" width="24" /></a>
+  <a href="https://www.hackerrank.com/juanvegu_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="juanvegu" height="24" width="24" /></a>
 </p>
