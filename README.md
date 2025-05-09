@@ -14,7 +14,7 @@
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="30" height="30"/></a> &nbsp;
   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="30" height="30"/></a> &nbsp;
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="30" height="30"/></a> &nbsp;
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="30" height="30"/></a> &nbsp;
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://brandlogos.net/wp-content/uploads/2025/03/firebase_icon-logo_brandlogos.net_tcvck.png" alt="firebase" width="24" height="30"/></a> &nbsp;
   <a href="https://graphql.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="30" height="30"/></a> &nbsp;
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/></a> &nbsp;
   <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/></a> 
