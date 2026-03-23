@@ -1,9 +1,9 @@
 <h2 align="center">Hi 👋, I'm Juan</h2>
 <h3 align="center">A mobile developer from Chile</h3>
 
-- 🌱 I’m currently learning **GraphQL, Python, Unreal Engine** and **Unity**.
+- 🌱 I’m currently learning **GraphQL, React, Unreal Engine** and **Unity**.
 
-- 💬 Ask me about **Swift** and **Flutter**.
+- 💬 Ask me about **Swift**, **Flutter** and **Python**.
 
 <h4 align="left">Languages and Tools:</h4>
 <p align="left">
