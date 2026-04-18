@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi,%20I'm%20Juan%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi,%20I'm%20Juan%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
 
 <h3 align="center">Mobile Developer from Chile 🇨🇱</h3>
 
@@ -14,7 +14,7 @@
 - 📱 Mobile developer specializing in **iOS (Swift/Objective-C)** and **Flutter (Dart)**
 - 🌱 Currently learning **GraphQL**, **React**, **Unreal Engine** and **Unity**
 - 💬 Ask me about **Swift**, **Flutter** and **Python**
-- 📫 Reach me at **juanvegu.dev@gmail.com**
+- 📫 Reach me at **<juanvegu.dev@gmail.com>**
 
 ---
 
@@ -36,11 +36,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juanvegu_&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanvegu_&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=juanvegu_&theme=tokyonight&hide_border=true" />
 </p>
 
@@ -60,4 +55,4 @@
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
