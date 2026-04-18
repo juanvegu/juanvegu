@@ -44,13 +44,13 @@
 ### 🤝 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/juan-vergara-gutierrez-5890b29a" target="_blank">
+  <a href="https://linkedin.com/in/juan-vergara-gutierrez-5890b29a" target="_blank" style="text-decoration:none">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://stackoverflow.com/users/6132300" target="_blank">
+  <a href="https://stackoverflow.com/users/6132300" target="_blank" style="text-decoration:none">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
   </a>
-  <a href="https://www.hackerrank.com/juanvegu_" target="_blank">
+  <a href="https://www.hackerrank.com/juanvegu_" target="_blank" style="text-decoration:none">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
 </p>
